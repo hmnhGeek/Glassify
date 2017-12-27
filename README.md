@@ -13,3 +13,5 @@ Glassify is a command line tool that gives a glassy effect to your images. It re
 
 ## Sample
 ![Show Piece](https://github.com/hmnhGeek/Glassify/blob/master/samples/showpiece.jpg)
+
+Although, a magnified view of the glassed image can convince you for the effectiveness of the tool. You can view some more images **magnified** in the samples folder.
