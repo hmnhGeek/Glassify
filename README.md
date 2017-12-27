@@ -12,3 +12,4 @@ Glassify is a command line tool that gives a glassy effect to your images. It re
       -s, --save       To save or not.
 
 ## Sample
+![Show Piece](https://github.com/hmnhGeek/Glassify/blob/master/samples/showpiece.jpg)
